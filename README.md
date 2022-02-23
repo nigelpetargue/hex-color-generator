@@ -1,1 +1,1 @@
-# hex-color-generator
+# hex-color-generator v1
